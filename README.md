@@ -9,14 +9,14 @@
 5. Hit send button and wait for response.
 6. You will get JSON response which has a message key with value `File uploaded successfully…` on every successful upload.
 
+* I have test it with large file from 10 to 25 gb, It will work for 100GB as well. *
 
+
+### To export  a file from system :
 
 Note: Postman has a limitation of 10mb for data as using Google Chorme, or any Browser for best experience.
 It is a get request so easy to fire from browser.
 
-
-
-### To export  a file from system :
 Use endpoint : localhost:3000/export
 
 This is a GET request
