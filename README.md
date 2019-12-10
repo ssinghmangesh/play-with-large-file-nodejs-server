@@ -1,8 +1,8 @@
 # play-with-large-file-nodejs-server
 
 No npm package is used
-run by write cammand 
-####node ./server.js
+run by write cammand : 
+**node ./server.js**
 
 
 ### To import the files in the system: 
