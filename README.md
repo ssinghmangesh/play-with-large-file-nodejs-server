@@ -1,7 +1,7 @@
 # play-with-large-file-nodejs-server
 
 
-To import the files in the system: 
+### To import the files in the system: 
 1. Open Postman.
 2. Create a post request with url as http://localhost:3000/import
 3. In request body select form-data
@@ -14,7 +14,9 @@ To import the files in the system:
 Note: Postman has a limitation of 10mb for data as using Google Chorme, or any Browser for best experience.
 It is a get request so easy to fire from browser.
 
-To export  a file from system :
+
+
+### To export  a file from system :
 Use endpoint : localhost:3000/export
 
 This is a GET request
