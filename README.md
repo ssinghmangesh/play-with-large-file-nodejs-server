@@ -40,7 +40,7 @@ Download file with  Filter
 	This will filter the logs whose date is equal to, or is less the endDate
 
 
-3. With startdate and endnote
+3. With startdate and endDote
 	http://localhost:3000/export?startDate=12/12/2018&endDate=12/12/2018
 	This will filter the logs whose’s date is equal to, or is more the startdate
 	And whose’s date is equal to, or is less the endDate
